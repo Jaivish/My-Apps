@@ -1,0 +1,35 @@
+body
+{
+   text-align: center;
+}
+#Apps
+{
+  height: 800px;
+  width: 100%;
+  background-color:lightgreen;
+}
+#line
+{
+    height: 6px;
+    width:70px;
+    background-color:black;
+    margin:8px auto;
+}
+#GameApps
+{
+  height: 800px;
+  width: 100%;
+  background-color:lightblue;
+}
+#ChatBots
+{
+  height: 800px;
+  width: 100%;
+  background-color:peachpuff;
+}
+
+img
+{
+height:500px;
+width:300px;
+}
